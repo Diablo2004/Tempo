@@ -52,9 +52,11 @@ function App() {
     <div className='container'>
       {!yesClicked ? (
         <>
-          <h1>For Rimi</h1>
-          <h1>Hey cutu baby love, Will you be my Valentine? 💖</h1>
-          <h1>I promise to keep you the happiest person ever! 😍</h1>
+          <h1>For aviral</h1>
+          <h1>
+            This is for my soni daani, I have a question for you my love💖
+          </h1>
+          <h1>Will you be my valentine for lifetime?</h1>
 
           {/* Yes Buttons */}
           <div className='yes-buttons'>
@@ -85,8 +87,8 @@ function App() {
       ) : (
         <>
           <h1 id='yesMessage'>
-            Yay! I knew it! You have made me the happiest person in this world!
-            ❤️
+            I knew you would say yes. You have no other choice . My love for you
+            is from every corner of my heart ❤️
           </h1>
           <img src={gif} alt='Happy GIF' className='gif' />
         </>
