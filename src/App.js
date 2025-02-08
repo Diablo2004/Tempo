@@ -87,8 +87,8 @@ function App() {
       ) : (
         <>
           <h1 id='yesMessage'>
-            I knew you would say yes. You have no other choice . My love for you
-            is from every corner of my heart ❤️
+            I knew you would say yes. You have no other choice. My love for you
+            comes from every corner of my heart ❤️
           </h1>
           <img src={gif} alt='Happy GIF' className='gif' />
         </>
